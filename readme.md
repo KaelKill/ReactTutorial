@@ -1,4 +1,4 @@
-# align=center>TUTORIAL REACT JS 
+# TUTORIAL REACT JS 
 
 ## Projetos desenvolvidos seguindo o curso React - The complete Guide da plataforma Udemy
 
