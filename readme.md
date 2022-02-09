@@ -14,6 +14,7 @@ Execute o comando
 npx create-react-app my-app
 ```
 onde 'my-app' é o nome do diretório onde sera criado o projeto
+
 Entre na pasta do projeto
 ```
 cd my-app
