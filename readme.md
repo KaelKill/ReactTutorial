@@ -1,3 +1,3 @@
-# TUTORIAL REACT JS
+<h1>TUTORIAL REACT JS</h1>
 
-## Projetos desenvolidos seguinto o curso React - The complete Guide da plataforma Udemy
+<h3>Projetos desenvolvidos seguindo o curso React - The complete Guide da plataforma Udemy<h3>
